@@ -1,7 +1,6 @@
 import './App.css';
 import Game from "./components/Game";
-import Board from "./components/Board";
-import Square from "./components/Square";
+import style from "./style.css";
 function App() {
   return (
       <div>
