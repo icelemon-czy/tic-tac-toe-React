@@ -6,7 +6,7 @@ function App() {
       <div>
           <body>
           <h1>
-              Hello
+              Tic Tac Toe
           </h1>
               <script type="text/javascript" src="//code.tidio.co/tw5rt6w4tf1lyeaugtmkd45wqw3zzpdm.js" async></script>
           </body>
